@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/population-friendship-app/static/css/main.e6c13ad2.css",
+    "main.js": "/population-friendship-app/static/js/main.2590a162.js",
+    "static/js/453.c1713c3e.chunk.js": "/population-friendship-app/static/js/453.c1713c3e.chunk.js",
+    "index.html": "/population-friendship-app/index.html",
+    "main.e6c13ad2.css.map": "/population-friendship-app/static/css/main.e6c13ad2.css.map",
+    "main.2590a162.js.map": "/population-friendship-app/static/js/main.2590a162.js.map",
+    "453.c1713c3e.chunk.js.map": "/population-friendship-app/static/js/453.c1713c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2590a162.js"
+  ]
+}
